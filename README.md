@@ -1,7 +1,3 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=어서오세요!!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=저는&20개발을좋아하는&20신우진이라고합니다.!&descAlignY=51&descAlign=62"/>
-</p>
-
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A0C5&width=500&lines=%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
 
 <!--
