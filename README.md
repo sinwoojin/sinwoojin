@@ -69,10 +69,8 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
-<div align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinwoojin&layout=compact)](https://github.com/sinwoojin/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinwoojin&show_icons=true&theme=radical)
-</div>
 
 ---
 
