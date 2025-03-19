@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
   <br>
-  현재 **Next.js**, **GraphQL**, **Docker**와 같은 기술을 배우고 있으며, **웹 성능 최적화**와 **서버 사이드 렌더링**(SSR)에 대해 연구하고 있습니다.
+  현재 **Next.js** 기술을 배우고 있으며, **웹 성능 최적화**와 **서버 사이드 렌더링**(SSR)에 대해 연구하고 있습니다.
 </details>
 
 ---
@@ -69,17 +69,16 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinwoojin&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align=center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinwoojin&layout=compact)](https://github.com/sinwoojin/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinwoojin&show_icons=true&theme=radical)
+</div>
 
 ---
 
 ### 📞 Let's Connect!
 
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **Email**: slow3993@gmail.com
 
 저와 함께 협업하거나, 기술적인 이야기나 질문이 있으시면 언제든지 연락 주세요!
 
