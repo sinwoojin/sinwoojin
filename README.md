@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## 👋 안녕하세요! I'm Woojin Sin, a Frontend Developer
 
-저는 **프론트엔드 개발자**이며, 주로 **React**와 **TypeScript**를 사용하여 **웹 애플리케이션**을 구축합니다. 매일 **새로운 기술을 배우고** 적용하는 것을 즐기며, **최고의 사용자 경험**을 제공하기 위해 노력하고 있습니다.
-
 ---
 
 ### 🧑‍💻 내가 지금 배우는 ...
@@ -34,7 +32,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
   <br>
-  현재 **Next.js** 기술을 배우고 있으며, **웹 성능 최적화**와 **서버 사이드 렌더링**(SSR)에 대해 연구하고 있습니다.
 </details>
 
 ---
@@ -43,7 +40,7 @@ Here are some ideas to get you started:
 
 - **Frontend**: React, TypeScript, JavaScript, HTML5, CSS3 (Sass, Styled Components)
 - **Tools**: Git, Vite
-- **Others**: Python
+- **Others**: Python, Go
 
 ---
 <!--
@@ -74,11 +71,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📞 Let's Connect!
-
 - **Email**: slow3993@gmail.com
-
-저와 함께 협업하거나, 기술적인 이야기나 질문이 있으시면 언제든지 연락 주세요!
 
 ---
 
