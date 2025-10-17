@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 안녕하세요! I'm Woojin Sin, a Frontend Developer
-
 ---
 
 ###
+
+<div>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
   <br>
+<div/>
 
 ---
 
@@ -46,11 +47,6 @@ Here are some ideas to get you started:
 - **Tech Stack**: React, TypeScript, SCSS
 - **Description**: 제 개인 포트폴리오 웹사이트로, 저의 주요 프로젝트와 경력 등을 소개합니다.
 - **Link**: [Live Demo](https://yourportfolio.com) | [Source Code](https://github.com/yourusername/portfolio)
-
-#### [📝 Task Manager](https://yourprojectlink.com)
-- **Tech Stack**: React, TypeScript, Styled Components
-- **Description**: 사용자가 할 일을 추가하고 관리할 수 있는 간단한 작업 관리 앱입니다. Context API를 활용하여 상태 관리를 효율적으로 처리합니다.
-- **Link**: [Live Demo](https://yourprojectlink.com) | [Source Code](https://github.com/yourusername/task-manager)
 
 #### [🛒 E-commerce Website](https://yourprojectlink.com)
 - **Tech Stack**: React, TypeScript, Sass
@@ -70,5 +66,3 @@ Here are some ideas to get you started:
 - **Email**: slow3993@gmail.com
 
 ---
-
-> "The best way to predict the future is to create it." 💡✨
