@@ -53,11 +53,15 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinwoojin&layout=compact)](https://github.com/sinwoojin/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinwoojin&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinwoojin&layout=compact&theme=radical)](https://github.com/sinwoojin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinwoojin&show_icons=true&theme=radical)](https://github.com/sinwoojin)
 
 ---
 
 - **Email**: slow3993@gmail.com
 
 ---
+
+## Contributors
+
+https://github.com/gosuda/portal/pull/105
