@@ -49,14 +49,6 @@ Here are some ideas to get you started:
 - **Link**: [Live Demo](https://yourprojectlink.com) | [Source Code](https://github.com/yourusername/ecommerce-site)
 
 -->
----
-
-### 📈 GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinwoojin&layout=compact&theme=radical)](https://github.com/sinwoojin)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinwoojin&show_icons=true&theme=radical)](https://github.com/sinwoojin)
-
----
 
 - **Email**: slow3993@gmail.com
 
