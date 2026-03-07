@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 
 ## Contributors
 
-https://github.com/gosuda/portal/pull/105
-https://github.com/gosuda/portal/pull/39
+- https://github.com/gosuda/portal/pull/105
+- https://github.com/gosuda/portal/pull/39
