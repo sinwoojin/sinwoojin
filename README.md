@@ -35,8 +35,6 @@
 
 ![Language Share](./assets/language-share.svg)
 
-<sub>매일 GitHub Actions가 public repository 언어 비율을 계산해 이 SVG를 갱신합니다. 외부 stats 서비스에 의존하지 않습니다.</sub>
-
 ---
 
 <!-- AUTO-STATS:START -->
