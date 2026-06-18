@@ -38,15 +38,15 @@
 ---
 
 <!-- AUTO-STATS:START -->
-_Last updated: 2026-06-18 03:00 KST · public repos: 8 · total stars: 1_
+_Last updated: 2026-06-19 03:11 KST · public repos: 7 · total stars: 0_
 
 ### 🧭 Recently Updated Public Repos
 
 - [sinwoojin](https://github.com/sinwoojin/sinwoojin) · Mixed · ⭐ 0 — No description yet
 - [sitewatch](https://github.com/sinwoojin/sitewatch) · Go · ⭐ 0 — No description yet
-- [pokedex](https://github.com/sinwoojin/pokedex) · TypeScript · ⭐ 1 — No description yet
 - [woojin](https://github.com/sinwoojin/woojin) · TypeScript · ⭐ 0 — No description yet
 - [react-hydration-safe](https://github.com/sinwoojin/react-hydration-safe) · TypeScript · ⭐ 0 — No description yet
+- [btc-price](https://github.com/sinwoojin/btc-price) · TypeScript · ⭐ 0 — No description yet
 <!-- AUTO-STATS:END -->
 
 ---
