@@ -38,15 +38,15 @@
 ---
 
 <!-- AUTO-STATS:START -->
-_Last updated: 2026-09-09 03:45 KST · public repos: 7 · total stars: 0_
+_Last updated: 2026-09-10 03:40 KST · public repos: 8 · total stars: 0_
 
 ### 🧭 Recently Updated Public Repos
 
+- [maple-forest](https://github.com/sinwoojin/maple-forest) · JavaScript · ⭐ 0 — 직업별 전투, 장비 외형과 20스테이지 원정을 지원하는 브라우저 기반 2D 액션 RPG
 - [sinwoojin](https://github.com/sinwoojin/sinwoojin) · Mixed · ⭐ 0 — No description yet
 - [sitewatch](https://github.com/sinwoojin/sitewatch) · Go · ⭐ 0 — No description yet
 - [woojin](https://github.com/sinwoojin/woojin) · TypeScript · ⭐ 0 — No description yet
 - [react-hydration-safe](https://github.com/sinwoojin/react-hydration-safe) · TypeScript · ⭐ 0 — No description yet
-- [btc-price](https://github.com/sinwoojin/btc-price) · TypeScript · ⭐ 0 — No description yet
 <!-- AUTO-STATS:END -->
 
 ---
